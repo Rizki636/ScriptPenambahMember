@@ -1,3 +1,5 @@
 # ScriptPenambahMember
 
-Script By [tes](https://t.me/Rizki636)
+Script By :
+
+[Rizki](https://t.me/Rizki636)
