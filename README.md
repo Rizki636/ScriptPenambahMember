@@ -5,3 +5,7 @@
 Script By :
 
 [`Rizki`](https://t.me/Rizki636)
+
+# Cara Pemasangan
+
+[`KLIK DISINI`](https://t.me/joinchat/pWCdbbfYwnNlZDg1)
