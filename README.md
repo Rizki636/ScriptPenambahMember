@@ -12,6 +12,6 @@ Script By <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/mast
 
 [`KLIK DISINI`](https://t.me/joinchat/pWCdbbfYwnNlZDg1)
 
-# Donasi
+# Donasi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
 
 [`DANA`](https://link.dana.id/qr/2kk8xf6w)
