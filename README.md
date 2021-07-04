@@ -14,4 +14,4 @@ Script By <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/mast
 
 # Donasi
 
-['DANA'](https://link.dana.id/qr/2kk8xf6w)
+[`DANA`](https://link.dana.id/qr/2kk8xf6w)
