@@ -4,7 +4,7 @@
 
 [![ logo](https://telegra.ph/file/d3e05d77a53921d7af8e2.jpg)](https://github.com/Rizki636/)
 
-<img src="https://telegra.ph/file/fab19f959251c01e65050.mp4 width="600" />
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" alt="Mario Game" width="600" />
 
 Script By <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px"> :
 
