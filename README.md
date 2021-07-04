@@ -1,6 +1,6 @@
 # ScriptPenambahMember
 
-[![ logo](107929573_450958.jpg)](https://github.com/Rizki636/)
+[![ logo](https://telegra.ph/file/d3e05d77a53921d7af8e2.jpg)](https://github.com/Rizki636/)
 
 Script By :
 
