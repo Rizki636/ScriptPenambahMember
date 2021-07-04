@@ -5,7 +5,7 @@ import csv
 
 api_id = 0000000   #Enter Your 7 Digit Telegram API ID.
 api_hash = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'   #Enter Yor 32 Character API Hash.
-phone = '+63xxxxxxxxxxxxx'   #Enter Your Mobilr Number With Country Code.
+phone = '+62xxxxxxxxxxxxx'   #Enter Your Mobilr Number With Country Code.
 client = TelegramClient(phone, api_id, api_hash)
 async def main():
     # Now you can use all client methods listed below, like for example...
@@ -72,3 +72,4 @@ with open("Scrapped.csv","w",encoding='UTF-8') as f:#Enter your file name.
         name= (first_name + ' ' + last_name).strip()
         writer.writerow([username,user.id,user.access_hash,name,target_group.title, target_group.id])
 print('Members scraped successfully.......')
+figlet Rizki
