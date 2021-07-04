@@ -1,6 +1,6 @@
 # ScriptPenambahMember
 
-[![ logo](IMG_20210616_123826_835.jpg)](https://github.com/Rizki636/)
+[![ logo](IMG_107929573_450958.jpg)](https://github.com/Rizki636/)
 
 Script By :
 
