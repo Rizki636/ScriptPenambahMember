@@ -9,8 +9,8 @@ import traceback
 import time
 import random
 
-api_id = 0000000   #Enter Your 7 Digit Telegram API ID.
-api_hash = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'   #Enter Yor 32 Character API Hash.
+api_id = 3425213   #Enter Your 7 Digit Telegram API ID.
+api_hash = '1e25b144a8bb938257a77140e5d2af6f'   #Enter Yor 32 Character API Hash.
 phone = '+63xxxxxxxxxxxxx'   #Enter Your Mobilr Number With Country Code.
 client = TelegramClient(phone, api_id, api_hash)
 async def main():
